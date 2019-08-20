@@ -67,7 +67,7 @@
                  /* Primary Customization */
            --name: "Bright\a   Eyes :)";
          --avatar: url(https://cdn.myanimelist.net/images/userimages/8095112.jpg);
-         --banner: url(https://i.imgur.com/mtt0y2o.jpg);
+         --banner: url(https://i.imgur.com/gPO13wG.jpg);
       --character: none;
 
 	
@@ -2275,7 +2275,7 @@ footer {
 
 :root {
                  /* Primary Customization */
-    --banner: url(https://i.imgur.com/mtt0y2o.jpg);
+    --banner: url(https://i.imgur.com/gPO13wG.jpg);
  --character: none;
 	
 	              /* Generic Colours */
@@ -2448,6 +2448,9 @@ updated 19-07-02 */
 .list-item .plantoread:after {
 	border-color: var(--plantowatch);
 }
+
+/* "Clarity" Modification by Valerio Lyndon / Hover Image / Revision 0.3 */
+.data.image a{overflow:visible}.data.image a:before{content:"";position:absolute;top:50%;left:-166px;z-index:50;width:150px;height:0;background:var(--bg-dark) no-repeat center/cover;border-radius:8px;box-shadow:0 0 2px #000;opacity:0;pointer-events:none;transition:all .3s ease}.list-item:hover .data.image a:before{top:calc(50% - 100px);height:200px;opacity:1}.data.image a:after,.data.image img{border-radius:50%}
 
 /* ===============
 BACKGROUND IMAGE */
