@@ -67,7 +67,7 @@
                  /* Primary Customization */
            --name: "Bright\a   Eyes :)";
          --avatar: url(https://cdn.myanimelist.net/images/userimages/8095112.jpg);
-         --banner: url(https://i.imgur.com/Qu0ggYE.png);
+         --banner: url(https://i.imgur.com/mtt0y2o.jpg);
       --character: none;
 
 	
@@ -2275,7 +2275,7 @@ footer {
 
 :root {
                  /* Primary Customization */
-    --banner: url(https://i.imgur.com/Qu0ggYE.png);
+    --banner: url(https://i.imgur.com/mtt0y2o.jpg);
  --character: none;
 	
 	              /* Generic Colours */
