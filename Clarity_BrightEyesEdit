@@ -2460,10 +2460,10 @@ body[data-query*='status":7'] { --background: url(https://i.imgur.com/hk6NfaJ.jp
 /* Watching/Reading */
 body[data-query*='status":1'] { --background: url(https://i.imgur.com/REW8s9d.png); }
 /* Completed */
-body[data-query*='status":2'] { --background: url(https://i.imgur.com/Ppg3H8E.png); }
+body[data-query*='status":2'] { --background: url(https://i.imgur.com/lMyLaS9.png); }
 /* Onhold */
 body[data-query*='status":3'] { --background: url(https://i.imgur.com/uacyhP2.jpg); }
 /* Dropped */
-body[data-query*='status":4'] { --background: url(https://i.imgur.com/zx4zIvv.png); }
+body[data-query*='status":4'] { --background: url(https://i.imgur.com/wtxEviI.jpg); }
 /* Planned */
 body[data-query*='status":6'] { --background: url(https://i.imgur.com/IPgcmpp.png); }
