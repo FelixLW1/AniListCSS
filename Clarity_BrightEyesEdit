@@ -2458,7 +2458,7 @@ BACKGROUND IMAGE */
 /* All Anime */
 body[data-query*='status":7'] { --background: url(https://i.imgur.com/ahSfnMO.jpg); }
 /* Watching/Reading */
-body[data-query*='status":1'] { --background: url(https://i.imgur.com/IIu8P9l.jpg); }
+body[data-query*='status":1'] { --background: url(https://i.imgur.com/ohEQfnY.jpg); }
 /* Completed */
 body[data-query*='status":2'] { --background: url(https://i.imgur.com/lMyLaS9.png); }
 /* Onhold */
