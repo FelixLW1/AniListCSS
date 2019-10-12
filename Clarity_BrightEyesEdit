@@ -2456,9 +2456,9 @@ updated 19-07-02 */
 BACKGROUND IMAGE */
 
 /* All Anime */
-body[data-query*='status":7'] { --background: url(https://i.imgur.com/ahSfnMO.jpg); }
+body[data-query*='status":7'] { --background: url(https://i.imgur.com/hk6NfaJ.jpg); }
 /* Watching/Reading */
-body[data-query*='status":1'] { --background: url(https://i.imgur.com/ohEQfnY.jpg); }
+body[data-query*='status":1'] { --background: url(https://i.imgur.com/ahSfnMO.jpg); }
 /* Completed */
 body[data-query*='status":2'] { --background: url(https://i.imgur.com/lMyLaS9.png); }
 /* Onhold */
